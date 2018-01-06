@@ -1,1 +1,1 @@
-# Human-Eye-Image-Analysis-to-Detect-Alzheimers
+# This project analyzes images of human eyes to detect markers that potentially indicate the presence of Alzheimer's Disease.  It performs statistical analysis to determine links between variations in eyes and the probably that a person has the disease.
